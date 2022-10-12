@@ -1,0 +1,17 @@
+.ul-ortala {
+    list-style-position: outside;
+  }
+  
+.ul-ortala ul {
+    list-style-position: outside;
+}
+.ol-ortala {
+    list-style-position: outside;
+  }
+  
+.ol-ortala ol {
+    list-style-position: outside;
+}
+.div-kare {
+    list-style-type: square;
+}
